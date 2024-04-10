@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **developing a web or mobile application**
 
-- 💬 Ask me about **php,nodejs**
+- 💬 Ask me about **php,Js**
 
 - 📫 How to reach me **anjanapromod03@Gmail.com**
 
