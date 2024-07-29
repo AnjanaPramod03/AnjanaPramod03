@@ -1,5 +1,5 @@
  # <h1 align="center">Hi 👋, I'm Anjana pramod</h1>
-#<h2 align="center">A passionate Junior web and Mobile Application developer from srilanka</h3>
+#<h2 align="center">A passionate Junior web and Mobile Application developer</h3>
 <p align="center">
 
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
